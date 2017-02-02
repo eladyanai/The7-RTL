@@ -1,0 +1,10 @@
+/* Deployment RTL CSS */
+
+/* The7 Theme Fixes & Customizations */
+.vc_inner {max-width:1050px; margin-right: auto !important; margin-left: auto !important;}
+.sub-nav {right:0 ; left: auto !important;}
+.items-grid .alignleft {margin: 5px 0 5px 20px;}
+.single-related-posts .alignleft {margin-right: 0;margin-left: 20px;}
+
+/* RTL FIXES */ 
+.cart_list,.shopping-cart-inner,.rsContainer li,.shop_table,.content th,.sub-nav li a,#main-nav>li>a,.su-carousel-slide-title {text-align:right;}
